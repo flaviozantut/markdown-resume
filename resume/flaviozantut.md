@@ -1,8 +1,8 @@
 # Flávio Zantut
-## PHP Developer
+## WEB Developer
 
 > [flaviozantut@gmail.com](flaviozantut@gmail.com) -- (54) 9986-1638
->
+> Caxias do Sul - RS
 
 ------
 
@@ -58,8 +58,6 @@ Fusopar parafusos
 
 ------
 
-
-------
 
 ### Formação
 
